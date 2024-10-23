@@ -1,4 +1,4 @@
-# Salary Estimation app
+# Salary Estimation 
 
 This project is a Salary Estimation Application built using Streamlit and a machine learning model. The app predicts the salary of an employee based on input features like years of experience and job role. It uses a pre-trained model stored in a .pkl file and presents results via a simple web interface.
 
